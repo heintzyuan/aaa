@@ -3,7 +3,7 @@ layout:     post
 title:      "第一篇博文"
 subtitle:   ""
 date:       2016-09-17 13:30:00
-author:     "HTerry"
+author:     "Terry"
 header-img: "img/post-bg-android.jpg"
 tags:
     -杂
