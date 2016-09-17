@@ -6,7 +6,7 @@ date:       2016-09-17 13:30:00
 author:     "Terry"
 header-img: "img/post-bg-android.jpg"
 tags:
-    -杂
+    - 杂
     
 ---
 
