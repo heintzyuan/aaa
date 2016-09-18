@@ -1050,7 +1050,7 @@ img::-moz-selection {
   width: 100%;
   height: 100%;
 }
-intro-header {
+.intro-header {
   height: 320px;
 }
 .page-fullscreen #tag-heading {
