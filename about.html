@@ -4,9 +4,22 @@ title: "About"
 description: "Why so serious?"
 header-img: "img/blue.jpg"
 ---
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')";height:250px>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" id="tag-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
-
-
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
@@ -34,9 +47,10 @@ header-img: "img/blue.jpg"
 
     <p>Hi, I am <strong>Terry</strong>，a student major in Computer Science.</p>
     
-    
 </div>
-
+</div>
+	</div>
+</div>
 
 <!-- Handle Language Change -->
 <script type="text/javascript">
