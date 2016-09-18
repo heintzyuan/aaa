@@ -24,6 +24,21 @@
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
                     {% endif %}{% endfor %}
+                    {% for page in site.pages %}{% if page.title == "Portfolio" %}
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                    {% endif %}{% endfor %}
+                    {% for page in site.pages %}{% if page.title == "Archive" %}
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                    {% endif %}{% endfor %}
+                    {% for page in site.pages %}{% if page.title == "Tags" %}
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                    {% endif %}{% endfor %}
                 </ul>
             </div>
         </div>
