@@ -27,9 +27,8 @@ layout: default
 	<body>
 		<div class="reveal" >
 			<div class="slides" >
-				<section >
-				<img  src="imgs/ban.jpg">	
-					
+				<section data-background-image="imgs/ban.jpg" >
+				Slide 1	
 				</section>
 				<section>Slide 2</section>
 			</div>
@@ -42,8 +41,6 @@ layout: default
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
-				width: 1920,
-                               height: 1080,
                                autoSlide: 3000,
                                parallaxBackgroundImage:'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
 
@@ -52,7 +49,8 @@ layout: default
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				        { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+			                { src: 'plugin/zoom-js/zoom.js', async: true },
 				]
 			});
 		</script>
