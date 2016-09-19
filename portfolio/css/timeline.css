@@ -4,10 +4,19 @@
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
-body, html {
-	font-size: 100%;
-	padding: 0;
-	margin: 0;
+html {
+  font-size: 10px;
+
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
 }
 
 .main a{
@@ -18,24 +27,25 @@ body, html {
 	/*text-decoration: none;*/
 }
 
-.main, .container > header {
+.main {
 	width: 90%;
 	max-width: 69em;
 	margin: 0 auto;
 	padding: 0 1.375em;
 }
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 @font-face {
-	font-family: 'huxico';
-	src:url('../fonts/huxico.eot');
-	src:url('../fonts/huxico.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/huxico.woff') format('woff'),
-		url('../fonts/huxico.ttf') format('truetype'),
-		url('../fonts/huxico.svg#huxico') format('svg');
-	font-weight: normal;
-	font-style: normal;
-} /* Made with http://icomoon.io/ */
+  font-family: 'Glyphicons Halflings';
 
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
 .cbp_tmtimeline {
 	padding: 0;
 	list-style: none;
@@ -184,42 +194,7 @@ body, html {
 }
 
 /******* Hux Branch *****/
-html{
-	font-size: 90%;
-}
-body{
-	background: #fafafa;
-}
-header{
-	background: #6ca8fb;
-	text-align: center;
-	height: 320px;
-	min-width: 100%;
-	padding: 5em 0px !important;
-	position: relative;
-	border-bottom: 1px solid #edeeee;
-}
-header h1 {
-    font-size: 70px;
-    color: white;
-    font-weight: 100;
-    margin-top: 26px;
-    margin-bottom: 10px;
-    line-height: 1;
-    letter-spacing: 0.1em;
-}
-header p{
-	text-align: center;
-	color: white;
-	font-size: 16px;
-	line-height: 1.6em;
-	letter-spacing: 1px;
-	font-weight: 300;
-	margin: 1.7em;
-}
-header img{
-	width: 190px;
-}
+
 
 .cbp_tmlabel .hux_ul{
 	border:none;
@@ -317,8 +292,7 @@ header img{
 		width: 100%;
 		padding-bottom: 0px;
 	}
-	html{
-		font-size: 90%;
+	
 	}
 	header p{
 		font-size: 1.05em;
