@@ -14,4 +14,6 @@ tags:
 
 这周有不少作业，还要准备考试，所以把第一次烘焙尝试放到下周吧！
 
->COOL！
+<blockquote style="border-color:red">
+<p>COOL！</p>
+</blockquote>
