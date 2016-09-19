@@ -104,4 +104,12 @@
         if(e.target.className == 'icon-bar') return;
         __HuxNav__.close();
     })
+    (function () {
+    var navTop = document.querySelector('#nav-top');
+    navTop.ondblclick = function () {
+        $('body').animate({
+            scrollTop: 0
+        }, 500)
+    }
+})();
 </script>
