@@ -19,40 +19,38 @@ header-img: "img/inception.jpg"
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-<div class="one-tag-list">
-			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
-                    <span class="tag-text">
-                    	{% for post in site.posts %}
+
+
+{% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <li >{{ y }}</li>
+
+<div class="one-tag-list">
+			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
+                    <span class="tag-text">
+                    	
+    <li>{{ y }}</li>
+    </span>
+               </span>
   {% endif %}
-  
-				
 				 <div class="post-preview">
 				    <a href="{{ post.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">
-                            
+                            <li>
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  
+  </li>
 				        </h2>
-				        {% if post.subtitle %}
-				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
-				        </h3>
+				       
 				        {% endif %}
 				    </a>
 				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
 				    
 				</div>
-				{% endfor %}
-				</span>
-               </span>
 				
-			
 			</div>
+			{% endfor %}
 			</div>
 	</div>
 </div>
