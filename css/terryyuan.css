@@ -19,8 +19,8 @@ blockquote {
 }
 @media only screen and (min-width: 768px) {
   .listing .listing-seperator .listing-item{
-    margin-left: 20px;
-    position: relative;
+    margin-left: 0px;
+   
   }
   .listing .listing-seperator .listing-item {
     font-size: 18px;
