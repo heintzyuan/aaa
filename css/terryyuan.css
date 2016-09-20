@@ -20,15 +20,13 @@ blockquote {
 @media only screen and (min-width: 768px) {
   .listing .listing-seperator .listing-item{
     margin-left: 0px;
-   
   }
-  .listing .listing-seperator .listing-item {
+  .listing .listing-seperator  {
     font-size: 18px;
     line-height: 1.3;
   }
-  .listing .listing-seperator .listing-item {font-size: 14px;}
-  
-  .listing .listing-seperator .listing-item {font-size: 18px;}
+   .listing-item {font-size: 14px;}
+ 
 }
 
   
