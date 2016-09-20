@@ -167,7 +167,7 @@ layout: default
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>
-                    <hr class="hidden-sm hidden-xs">
+                    <hr>
                     <h5><a onmouseover="this.style.cssText='color:red!important;'" onmouseout="this.style.cssText='color:gray'"href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
                     <div class="tags">
                         {% for tag in site.tags %}
