@@ -6,7 +6,7 @@ iframe:     "reveal/index.html"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a onmouseover="this.style.cssText='color:red;'" href="{{ post.url | prepend: site.baseurl }}">
+    <a onmouseover="this.style.cssText='color:red;'"onmouseout="this.style.cssText='color:black'" href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
         </h2>
