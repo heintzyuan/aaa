@@ -104,32 +104,16 @@ layout: default
                 col-xs-12
                 sidebar-container
             ">
-                <!-- Featured Tags -->
-                {% if site.featured-tags %}
-                <section>
-                    <hr class="hidden-sm hidden-xs">
-                    <h5><a onmouseover="this.style.cssText='color:red!important;'"onmouseout="this.style.cssText='color:gray'"href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
-                    <div class="tags">
-                        {% for tag in site.tags %}
-                            {% if tag[1].size > {{site.featured-condition-size}} %}
-                                <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
-                                    {{ tag[0] }}
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    </div>
-                </section>
-                {% endif %}
-
-                <!-- Short About -->
-                <section class="visible-md visible-lg">
-                    <hr><h5><a onmouseover="this.style.cssText='color:red!important;'"onmouseout="this.style.cssText='color:gray'" href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
-                    <div class="short-about">
-                        {% if site.sidebar-avatar %}
-                            <img style="border-radius: 50%" src="{{site.sidebar-avatar}}" />
+            	<!-- Short About -->
+            	<section style="text-align: center;"class="visible-md visible-lg">
+            		{% if site.sidebar-avatar %}
+                           <hr class="hidden-sm hidden-xs"> <img style="height:177px;width:177px;border-radius: 50%" src="{{site.sidebar-avatar}}" />
                         {% endif %}
+                    <h5 style="margin-bottom:0px!important"><a style="font-size:16px" onmouseover="this.style.cssText='color:red!important;font-size:16px!important'" onmouseout="this.style.cssText='color:gray;font-size:16px!important'"href="{{'/about/' | prepend: site.baseurl }}">Terry Yuan</a></h5>
+                    <div class="short-about">
+                        
                         {% if site.sidebar-about-description %}
-                            <p>{{site.sidebar-about-description}}</p>
+                            <p style="margin-bottom:14px">{{site.sidebar-about-description}}</p>
                         {% endif %}
                         <!-- SNS Link -->
                         <ul class="list-inline">
@@ -206,6 +190,25 @@ layout: default
                         </ul>
                     </div>
                 </section>
+                <!-- Featured Tags -->
+                {% if site.featured-tags %}
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a onmouseover="this.style.cssText='color:red!important;'" onmouseout="this.style.cssText='color:gray'"href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        {% for tag in site.tags %}
+                            {% if tag[1].size > {{site.featured-condition-size}} %}
+                                <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
+                                    {{ tag[0] }}
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </section>
+                {% endif %}
+
+            
+                
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
