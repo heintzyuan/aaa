@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "初学者练手之曲奇"
+title:      "初学练手之曲奇"
 subtitle:   
 date:       2016-09-22
 author:     "Terry"
