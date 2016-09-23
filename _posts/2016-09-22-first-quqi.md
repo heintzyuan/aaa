@@ -4,7 +4,7 @@ title:      "初学练手之曲奇"
 subtitle:   
 date:       2016-09-22
 author:     "Terry"
-header-img: "http://odmaovtkc.bkt.clouddn.com/20160923_000628.jpg"
+header-img: "img/firstquqi.jpg"
 catalog: Cookie
 tags:
     - 曲奇饼
