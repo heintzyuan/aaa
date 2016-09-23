@@ -50,7 +50,7 @@ tags:
 ![img](http://odmaovtkc.bkt.clouddn.com/20160922_220741.jpg)
 最后烤出来是这样的。
 ![img](http://odmaovtkc.bkt.clouddn.com/20160922_225904.jpg)
-![img](http://odmaovtkc.bkt.clouddn.com/20160922_000628.jpg)
+![img](http://odmaovtkc.bkt.clouddn.com/20160923_000628.jpg)
 好像还是有点焦，而且很难看。。。（裱花嘴真的很难控制），但是味道和口感还是不错的。
 
 第一次做感觉算是还可以吧，明天有时间的话想尝试一下做戚风蛋糕！
