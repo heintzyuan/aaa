@@ -4,7 +4,7 @@ title:      "初学练手之戚风蛋糕"
 subtitle:   
 date:       2016-09-23
 author:     "Terry"
-header-img: ""
+header-img: "img/qifeng"
 catalog: Cake
 tags:
     - 戚风蛋糕
@@ -51,11 +51,15 @@ tags:
 这是烤了20分钟的状态，已开始膨胀。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_184007.jpg)
 
-#### 第一次尝试：失败
-50分钟到，拿出来马上倒扣，直到冷却。
+#### 第一次尝试：成功
+50分钟到，拿出来摔一下马上倒扣，直到冷却。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_191107.jpg)
-
-
+最后是这样的！
+![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_194652.jpg)
+切开后，气泡不算均匀，中部略有塌陷，不算完美，但尝了一下，味道还是很不错的！
+![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_200519.jpg)
+![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_200615.jpg)
+还没想好下次做什么呢，等做了我会及时更新的。
 
 
 
