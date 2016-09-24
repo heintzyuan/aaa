@@ -57,10 +57,10 @@ tags:
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_191107.jpg)
 最后是这样的！
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_194652.jpg)
-切开后，气泡不算均匀，中部略有塌陷，不算完美，但尝了一下，味道还是很不错的！
+切开后，内部气泡不算均匀，中部略有塌陷，不算完美，但表面没有开裂，尝了一下，味道还是很不错的！
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_200519.jpg)
 ![img](http://odmaovtkc.bkt.clouddn.com/image/qifeng/20160923_200615.jpg)
-下次再做会更注意不消泡，烤制时间也需要根据烤箱性能调整。
+下次再做的话应该要更加注意减少消泡，让蛋糕更蓬松，内部气孔更均匀，烤制时间也要根据烤箱性能做一下调整。
 
 还没想好下次做什么呢，等做了我会及时更新的。
 
