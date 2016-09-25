@@ -4,7 +4,7 @@ title:      "奶油龙虾意面"
 subtitle:   
 date:       2016-09-25
 author:     "Terry"
-header-img: ""
+header-img: "img/clp.jpg"
 catalog: Pasta
 tags:
     - 西餐
