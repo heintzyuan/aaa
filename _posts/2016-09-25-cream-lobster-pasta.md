@@ -27,14 +27,14 @@ tags:
 5.倒入白葡萄酒。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_123358.jpg)
 6.煮一会后，取出龙虾。
-![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_123565.jpg)
-7.倒入奶油和parmesan芝士接着煮。
+![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_123656.jpg)
+7.倒入奶油和parmesan芝士接着煮，待芝士融化。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_125547.jpg)
 8.同时开始煮面。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_124507.jpg)
 9.等面快熟的时候捞出，倒入奶油龙虾汤接着煮。（我喜欢的spaghetti在锅里煮了10分钟再放入龙虾汤的，其他的面种要相应调整时间）
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_125532.jpg)
-10.再加入龙虾一起煮
+10.再加入龙虾一起煮。
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_125547.jpg)
 11.出锅，完成！
 ![img](http://odmaovtkc.bkt.clouddn.com/image/creamlobpasta/20160925_130038.jpg)
