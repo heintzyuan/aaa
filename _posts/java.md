@@ -97,7 +97,7 @@ String a = new String("abc");
 String b = new String("abc");
 String c = "abc";
 String d = "abc";
-a.intern();
+String e = a.intern();
 System.out.println(a==b);
 System.out.println(c==d);
 System.out.println(c==a);
@@ -130,16 +130,16 @@ System.out.println(a.hashCode());
 //添加代码
 String b = "abc";
 String c = new String("abc");
-c.intern();
+String d = c.intern();
+System.out.println(b==d);
 System.out.println(b.hashCode());
-System.out.println(c.hashCode());
 ```
 输出：
 ```java
 96354
 bcd
 97347
-96354
+true
 96354
 ```
 从结果可以看出，不论是新建字符串直接量，还是通过intern()方法，都可以重新定位到String Pool中的“ABC”对象。
