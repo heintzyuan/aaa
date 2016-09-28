@@ -89,7 +89,7 @@ System.out.println(r.hashCode());
 bcd
 97347
 ```
-a的指向被改变后，原来的对象“abc”并不会被清除，而是会一直存在于String Pool中，通过intern()方法,可以重新定位到“abc”对象，具体内容后面会讲到。
+a的指向被改变后，原来的对象“abc”并不会被清除，而是会一直存在于String Pool中，通过intern()方法，可以重新定位到“abc”对象，具体内容后面会讲到。
 
 再看一段代码：
 ```java   
@@ -144,4 +144,23 @@ true
 ```
 从结果可以看出，不论是新建字符串直接量，还是通过intern()方法，都可以重新定位到String Pool中的“ABC”对象。
 
+#### bug...
+重新测试了上一个主题的代码，发现了一个bug，希望高手能帮我来解答。。。
 
+是这样的，看这一段代码：
+```java   
+String a = new String("abc");
+String c = "abc";
+System.out.println(a==c);
+System.out.println(a.hashCode());
+System.out.println(c.hashCode());
+System.out.println(a.hashCode()==c.hashCode());
+```
+输出：
+```java
+false
+96354
+96354
+true
+```
+也就是，其实a和c具有相同的哈希值，但是用“==”方法却返回false，不知道哪里出了问题...
