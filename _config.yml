@@ -87,7 +87,4 @@ friends: [
         href: "http://www.qq.com/404/"
     }
     ]
-    markdown: kramdown
-kramdown:
-  input: GFM
-pygments: true  
+    
