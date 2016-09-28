@@ -88,3 +88,5 @@ friends: [
     }
     ]
     
+highlighter: rouge
+markdown: kramdown
