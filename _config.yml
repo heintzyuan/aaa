@@ -86,5 +86,8 @@ friends: [
         title: "暂时没有啦，可以看看这个",
         href: "http://www.qq.com/404/"
     }
-    
+    ]
+    markdown: kramdown
+kramdown:
+  input: GFM
 pygments: true  
