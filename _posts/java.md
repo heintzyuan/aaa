@@ -42,9 +42,10 @@ public static void main(String[] args) {
     }
 }
 ```
-运行结果是：
+输出结果是：
 ```java
-a=1,a=2
+a=1
+a=2
 ```
 要注意的是，新建一个Num对象的时候，a是一个类类型的引用变量，储存了该类对象在堆内存中的地址，而Num b = a表示新建一个类类型的引用变量b，并将a储存的地址复制给b，所以此时a和b都指向同一个对象，a和b对对象的操作是等价的。
 
@@ -60,7 +61,7 @@ String a = "...";
 
 对于字符串直接量，JVM会在内存中开辟一个“String Pool”，用来存放字符串直接量。
 
-String类的对象是不可变的，不能改变其内容。
+String类的对象是不可变的，称为不可变字符串。
 
 看这一段代码：
 ```java
@@ -88,23 +89,22 @@ System.out.println(r.hashCode());
 bcd
 97347
 ```
-a的指向被改变后，原来的对象“abc”并不会被清除，而是会一直存在于String Pool中，通过intern()方法,可以重新定位到“abc”对象。
+a的指向被改变后，原来的对象“abc”并不会被清除，而是会一直存在于String Pool中，通过intern()方法,可以重新定位到“abc”对象，具体内容后面会讲到。
 
-
-
+再看一段代码：
 ```java   
 String a = new String("abc");
 String b = new String("abc");
 String c = "abc";
 String d = "abc";
-String e = a.intern();
+a.intern();
 System.out.println(a==b);
 System.out.println(c==d);
 System.out.println(c==a);
 System.out.println(c==b);
 System.out.println(c==e);
 ```
-编译结果为:
+输出结果为:
 ```java
 false
 true
@@ -112,6 +112,36 @@ false
 false
 true
 ```
+这段代码体现出了String Pool的另一个特点，JVM为了节约资源，会对具有相同字符串的字符串直接量使用同一个实例，这样的实例称为限定的（interned）。
 
+代码中c和d属于字符串直接量，而且其初始化的字符串相同，所以JVM会自动令c和d指向同一个实例对象，其Hashcode是相等的。
+
+a和b不属于字符串直接量，它们在初始化时不会搜索String Pool，而是在堆内存分别创建对象，所以Hashcode不相同。
+
+再看代码中的intern()方法，通过这个方法，可以将对象转化为限定的，系统会检查当前对象在对象池是否内容相同的对象，如果有则返回对象，如果没有就将当前对象变成String Pool中的一员。
+
+回到之前的例子：
+```java
+String a = "abc";
+System.out.println(a.hashCode());
+a = "bcd";
+System.out.println(a);
+System.out.println(a.hashCode());
+//添加代码
+String b = "abc";
+String c = new String("abc");
+c.intern();
+System.out.println(b.hashCode());
+System.out.println(c.hashCode());
+```
+输出：
+```java
+96354
+bcd
+97347
+96354
+96354
+```
+从结果可以看出，不论是新建字符串直接量，还是通过intern()方法，都可以重新定位到String Pool中的“ABC”对象。
 
 
