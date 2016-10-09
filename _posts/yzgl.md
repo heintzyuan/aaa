@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "杨枝甘露"
+subtitle:   
+date:       2016-10-07
+author:     "Terry"
+header-img: "img/yzgl.jpg"
+catalog: Cookie
+tags:
+    - 杨枝甘露
+    - 甜品
+---
+<blockquote><p>Here before you honestly<br>
+captivate all of me</p></blockquote>
+    
+前两周做的东西可能有点腻，这周决定做清爽一点的杨枝甘露。
+#### 制作开始
+1.先煮西米，将水沸腾后，倒入80g西米，等重新沸腾后关火，焖20分钟。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_192114.jpg)
+2.将西米取出倒漏网上用凉水冲，再将水烧开，重新倒入西米，大约煮5分钟，只要西米中心的白点消失即可，随后将西米放冰箱备用。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_202127.jpg)
+3.取160ml水烧开，倒入60g白砂糖，直到溶解即可。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_205203.jpg)
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_205527.jpg)
+4.待糖水冷却后倒入160ml三花淡奶（就是照片中这个）。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_210028.jpg)
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_210253.jpg)
+5.将400g芒果打成浆，倒入之前的混合液，随后放冰箱冷藏。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_210258.jpg)
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_210808.jpg)
+6.大约1小时后，取出混合液，倒入煮好的西米，同时加入剥好的西柚肉，搅拌一下，再倒入160ml椰浆。
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_225306.jpg)
+7. 最后切一些芒果丁点缀一下，这样就大功告成啦！
+![img](http://odmaovtkc.bkt.clouddn.com/image/yzgl/20161007_225756.jpg)
+尝了一下， 比甜品店的稠一点，味道还是很不错的，下次可以多放点水。
