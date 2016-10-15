@@ -1,19 +1,64 @@
 ---
 layout:     post
-title:      "蔓越莓麦芬（搅和法）"
+title:      "提拉米苏"
 subtitle:   
-date:       2016-09-29
+date:       2016-10-14
 author:     "Terry"
-header-img: "img/maifen.jpg"
+header-img: "img/tlms.jpg"
 catalog: Cake
 tags:
     - 蛋糕
-    - 麦芬
+    - 提拉米苏
 ---
-这周准备做蔓越莓麦芬和蛋挞。
+本周做一款较为简单的意式提拉米苏（不用烤箱）。
 
-做麦芬有两种方法，分别是搅合法和乳化法，乳化法需要打发黄油，烤制过程中更容易膨胀，但是口感太偏蛋糕，再加上我买了泡打粉，不用担心膨胀问题，所以这次决定用更传统的搅合法。
+食材！
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_184445.jpg)
+ 其中重点就是手指饼干（Lady Fingers）和mascarpone奶酪，这两样最关键的食材一般超市很难买到，又是找了好久。。。
 
-这些是要用到的食材：
-![img](http://odmaovtkc.bkt.clouddn.com/image/week2/20160929_164009.jpg)
-和以前不同的是多了无铝泡打粉、柠檬、中筋面粉和丁香粉。
+朗姆酒也暂时买不到，不过可以用白葡萄酒替代，另外别忘了准备好咖啡。
+
+#### 制作开始
+
+先煮咖啡，由于条件所限，做不了expresso,只好多放点咖啡增加浓度，煮开后放在一旁冷却。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_175604.jpg)
+
+取三个鸡蛋，将蛋黄和蛋白分离。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_185501.jpg)
+
+用打蛋机将蛋黄打匀，同时放入20g糖。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_185635.jpg)
+
+放入260g的mascarpone奶酪，手动搅拌均匀，放置一旁。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_190454.jpg)
+
+将蛋白打发至干性发泡状态，和之前做戚风时一样，同时分多次加入20g糖。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_190827.jpg)
+
+取50g奶油，同样打发。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_191700.jpg)
+
+将三种液体混合，搅拌均匀，注意尽量不消泡。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_191916.jpg)
+
+咖啡此时冷却差不多了，加入适量酒。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_184543.jpg)
+
+将手指饼干在咖啡里快速浸泡，取出后铺满容器。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_192030.jpg)
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_192139.jpg)
+
+倒入液体至恰好覆盖，然后铺第二层手指饼干。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_200157.jpg)
+
+将剩下的混合液全部倒入。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_200405.jpg)
+
+最后撒上一层可可粉（不要撒太厚）。
+![img](http://odmaovtkc.bkt.clouddn.com/image/tlms/20161014_200907.jpg)
+
+放入冰箱至少6小时！
+
+看来今天是完成不了了，明天再更新啦。
+
