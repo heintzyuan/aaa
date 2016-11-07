@@ -1,0 +1,71 @@
+---
+layout:     post
+title:      "梳乎厘"
+subtitle:   
+date:       2016-11-06
+author:     "Terry"
+header-img: "img/shuhuli.jpg"
+catalog: Cookie
+tags:
+    - 梳乎厘
+    - 蛋糕
+---
+    
+如题，这次做来自法国的梳乎厘。
+
+先放食材，分别是低筋面粉、无盐黄油、白砂糖、鸡蛋和牛奶。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_203454.jpg)
+
+
+#### 制作开始
+
+先在烤碗内部涂满黄油，然后在粘上一层糖。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_203857.jpg)
+
+接着加热20g黄油，直到熔化。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_204554.jpg)
+
+加入20g面粉，搅拌均匀。
+
+混合15g糖和110g牛奶，加热至糖完全溶解，然后倒入面粉黄油混合液搅拌。
+
+将混合液过滤。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_210042.jpg)
+
+倒入锅中加热，同时搅拌，到粘稠状态即可。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_210552.jpg)
+
+冷却后，加入两个蛋黄搅拌均匀。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_211505.jpg)
+
+预热烤箱到360华氏度，同时打发两个蛋清，分多次加入15g白糖，到干性发泡即可。
+
+分多次将打发的蛋白加入之前的混合液，注意不要消泡。
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_213310.jpg)
+
+倒入模具，烤25分钟。
+
+#### 制作完成
+
+![img](http://odmaovtkc.bkt.clouddn.com/image/shuhuli/20161106_220452.jpg)
+
+味道很不错！
+
+两个问题：
+1）手机好像又出问题了，好多照片找不到了，下次做再更新啦。
+2）模具比想象中大，下次决定用1.5倍的量。
+
+
+
+
+
+
+
+
